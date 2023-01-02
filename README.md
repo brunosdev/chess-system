@@ -5,7 +5,7 @@
 
 Chess System é uma aplicação back end construída durante o curso Java COMPLETO orientado a objetos da [DevSuperior](https://devsuperior.com "Site da DevSuperior") na Udemy.
 
-A aplicação simula uma partida de xadrez com as regras "rook","promotion" e "en passant".
+A aplicação simula uma partida de xadrez com as regras "rook", "promotion" e "en passant".
 
 ## Layout 
 ![Computer](https://user-images.githubusercontent.com/102170718/210257834-40dafb3f-eae3-4fe6-a795-c37537dbb99b.png)
